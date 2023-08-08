@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_description_game_descriptions",
+  "info": {
+    "displayName": "game_description",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
